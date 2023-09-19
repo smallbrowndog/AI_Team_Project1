@@ -20,6 +20,10 @@ Spotify API, Face API
 
 ## 3. 웹페이지 구축
 
+### 3.1 출력문
+### 3.2 추가내용
+### 3.3 웹페이지 구성
+
 <p align="center">
 <img src = "./unnamed (1).png" width = 300>
 </p>
@@ -27,9 +31,5 @@ Spotify API, Face API
 <p align="center">
 <img src = "./unnamed.png" width = 300>
 </p>
-
-### 3.1 출력문
-### 3.2 추가내용
-### 3.3 웹페이지 구성
 
 ## 4. 실행결과
